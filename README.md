@@ -31,6 +31,7 @@ This repository contains my DevOps projects.
 docker build -t registration-app .
 docker run -p 8080:8080 registration-app
 
+##
 registration-app
 <br>
 Test33
